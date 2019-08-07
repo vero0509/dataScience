@@ -1,0 +1,9 @@
+# source file
+
+# this script will contain functions that I do not want to see
+
+addOne <- 
+  function(x){
+    x+1
+  }
+  
